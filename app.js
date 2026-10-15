@@ -4,7 +4,7 @@ let story = {
         btn1:{text:"Investigate", step:"step2"},
         btn2:{text:"Run Away", step:"step6"}
     },
-    step2: {img:"./images/skeleboi.jpg",
+    step2: {img:"./images/Skeleboi.jpg",
         text: "you peer into the bushes only to find a human skeleton, you watch as it starts to stand upright only to realise it is slightly shorter than you are.",
         btn1:{text:"Wave to it", step:"step3"},
         btn2:{text:"Square Up", step:"step4"}
