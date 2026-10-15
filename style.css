@@ -1,0 +1,42 @@
+body{
+    background-color: black;
+    color: rgb(252, 26, 26);
+}
+#Btn1{
+    background-color: rgb(104, 3, 145);
+    color: rgb(206, 117, 1);
+    border: 3px groove rgb(159, 255, 115);
+    border-radius: 2px;
+    font-size: 20px;
+    width: auto
+}
+#Btn2{
+    background-color: rgb(104, 3, 145);
+    color: rgb(206, 117, 1);
+    border: 3px groove rgb(159, 255, 115);
+    border-radius: 2px;
+    font-size: 20px;
+    width: auto
+}
+
+#container{
+    margin: auto;
+    text-align: center;
+}
+#TheImage{
+    height: 300px;
+    width: auto;
+}
+.hidden{
+    display: none;
+}
+.LOST{
+    color: rgba(255, 85, 85, 0.61);
+    text-shadow: 2px 2px 5px rgb(93, 236, 255);
+    border: 3px dashed rgba(123, 246, 255, 0.658);
+}
+.lost{
+    color: rgba(0, 255, 221, 0.774);
+    text-shadow: 2px 2px 5px rgb(250, 171, 67);
+    border: 3px dashed rgba(255, 30, 30, 0.658);
+}
