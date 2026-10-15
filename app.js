@@ -90,7 +90,7 @@ if(story[currentStep].btn1 == undefined){
     document.getElementById('Btn2').classList.add("hidden")
 }
 if(currentStep == "step15"){
-    document.getElementById('StoryText').classList.add("LOST")
+    document.getElementById('StoryText').classList.add("LOSTINTHEWOODS")
 }
 else{storybtn1.innerHTML = story[currentStep].btn1.text;
 storybtn2.innerHTML = story[currentStep].btn2.text;}
